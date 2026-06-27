@@ -1,0 +1,5 @@
+Baixe os arquivos do projeto.
+Abra o arquivo token.txt.
+Cole seu token do Discord no arquivo.
+Salve o arquivo.
+Execute o programa.
